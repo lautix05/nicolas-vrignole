@@ -1,0 +1,15 @@
+h1{
+    margin-top: 25px;
+    padding-bottom: 25px;
+}
+.clase{
+    float: left;
+}
+.tarjeta{
+    display:inline-block;
+    margin: 30px;
+
+}
+.tumadre {
+    background-color: red;
+}
